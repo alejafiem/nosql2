@@ -1,0 +1,9 @@
+| Day | Count | Percentage |
+| ---- | ---- | ---- |
+| Wednesday | 320042 | 14.62% |
+| Friday | 333948 | 15.26% |
+| Saturday | 316780 | 14.47% |
+| Tuesday | 311471 | 14.23% |
+| Thursday | 312412 | 14.27% |
+| Monday | 302915 | 13.84% |
+| Sunday | 291284 | 13.31% |

@@ -1,0 +1,1 @@
+mongoimport --port 27001 --host localhost -d test -c head --type csv --file data.csv --headerline --drop
