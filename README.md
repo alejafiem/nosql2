@@ -60,7 +60,7 @@ Ostatnie polecenie wyświetla incydenty, które miały miejsce w okolicy Sądu S
 
 
 
-Wynik porównania działania zapytania do bazy z indeksem oraz bez indeksu zawarłem w poniższej tabeli. Dokładne wyniki znajdują się na screenach [execution_stats_index.png](execution_stats_index.png) oraz [execution_stats_no_index.png](execution_stats_no_index.png.
+Wynik porównania działania zapytania do bazy z indeksem oraz bez indeksu zawarłem w poniższej tabeli. Dokładne wyniki znajdują się na screenach [execution_stats_index.png](execution_stats_index.png) oraz [execution_stats_no_index.png](execution_stats_no_index.png).
 
 
 | Field | Index | Clean |
