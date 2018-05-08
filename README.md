@@ -57,3 +57,16 @@ W tym miejscu wywołuję proste zapytanie o posortowane elementy. Następnie wyk
 
 `.\zaliczenie.exe index`
 Ostatnie polecenie wyświetla incydenty, które miały miejsce w okolicy Sądu San Fransisco (San Fransisco Hall of Justice). Zapytanie te jest wykonywane za pomocą regexu i jest limitowane do 1000 dokumentów. Po ich znalazieniu sa one zrzucane do [justice.json](justice.json).
+
+
+
+Wynik porównania działania zapytania do bazy z indeksem oraz bez indeksu zawarłem w poniższej tabeli. Dokładne wyniki znajdują się na screenach [execution_stats_index.png](execution_stats_index.png) oraz [execution_stats_no_index.png](execution_stats_no_index.png.
+
+
+| Field | Index | Clean |
+| ---- | ---- | ---- |
+| nReturned | 4772 | 4772 |
+| totalDocsExamined | 4772 | 2188852 |
+| totalKeysExamined | 4772 | 0 |
+| Stages | 2 | 3 |
+
